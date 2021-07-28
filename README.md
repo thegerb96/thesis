@@ -11,4 +11,3 @@ Please note that directories and keys have been anonimized within the notebooks.
 5. Natural Language Processing; Here we define our features and process our data.
 
 The analysis portion of the thesis has not been included since it is completely tailored to my thesis but is available upon request. 
-The same goes for the complete document. 
