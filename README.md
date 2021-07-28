@@ -1,8 +1,6 @@
 # MSc. Thesis
-This repo contains well annotated jupyter notebook with all the relevant code used in the creation of my MSc. Thesis. 
-Please note that directories and keys have been anonimized within the notebooks.
-
-
+This repo contains well annotated jupyter notebook with all the relevant code used in the creation of my MSc. Thesis as well as the Thesis itself as PDF. 
+*Please note that directories and keys have been anonimized within the notebooks.*
 
 ## The project consists of 6 chapters:
 
@@ -12,6 +10,6 @@ Please note that directories and keys have been anonimized within the notebooks.
 4. Transcription; Here we first use youtube-dl to download audio tracks which we then transcribe using the IBM Watson Speech to Text api
 5. Natural Language Processing; Here we define our features and process our data.
 
-The analysis portion of the thesis has not been included since it is completely tailored to my thesis but is available upon request. 
+All of the above chapters are also compiled in one complete document, this is the last notebook in repo. The analysis portion of the thesis has not been included since it is completely tailored to my thesis but is available upon request.
 
 ![image](https://user-images.githubusercontent.com/72451027/127410669-9e9e7fa9-e063-4b6b-b6d9-ed8f623d7d99.png)
