@@ -1,4 +1,3 @@
-![image](https://user-images.githubusercontent.com/72451027/127410599-91876a0d-1eff-43f7-a1cd-9eb37030ce93.png)
 # MSc. Thesis
 This repo contains well annotated jupyter notebook with all the relevant code used in the creation of my MSc. Thesis. 
 Please note that directories and keys have been anonimized within the notebooks.
@@ -14,3 +13,5 @@ Please note that directories and keys have been anonimized within the notebooks.
 5. Natural Language Processing; Here we define our features and process our data.
 
 The analysis portion of the thesis has not been included since it is completely tailored to my thesis but is available upon request. 
+
+![image](https://user-images.githubusercontent.com/72451027/127410669-9e9e7fa9-e063-4b6b-b6d9-ed8f623d7d99.png)
