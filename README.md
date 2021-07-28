@@ -1,6 +1,9 @@
-# Thesis
-This contains a well annotated jupyter notebook with all the relevant code used in the project. 
+![image](https://user-images.githubusercontent.com/72451027/127410599-91876a0d-1eff-43f7-a1cd-9eb37030ce93.png)
+# MSc. Thesis
+This repo contains well annotated jupyter notebook with all the relevant code used in the creation of my MSc. Thesis. 
 Please note that directories and keys have been anonimized within the notebooks.
+
+
 
 ## The project consists of 6 chapters:
 
