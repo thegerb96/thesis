@@ -1,5 +1,5 @@
 # MSc. Thesis
-This repo contains well annotated jupyter notebook with all the relevant code used in the creation of my MSc. Thesis as well as the Thesis itself as PDF.  
+This repo contains well annotated jupyter notebook with all the relevant code used in the creation of my MSc. Thesis as well as the Thesis itself as PDF.    
 *Please note that directories and keys have been anonimized within the notebooks.*
 
 ## The project consists of 6 chapters:
