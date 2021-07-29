@@ -12,4 +12,5 @@ This repo contains well annotated jupyter notebook with all the relevant code us
 
 All of the above chapters are also compiled in one complete document, this is the last notebook in repo. The analysis portion of the thesis has not been included since it is completely tailored to my thesis but is available upon request.
 
-![image](https://user-images.githubusercontent.com/72451027/127410669-9e9e7fa9-e063-4b6b-b6d9-ed8f623d7d99.png)
+![image](https://user-images.githubusercontent.com/72451027/127412314-75558c19-2444-4eae-9707-037c96526c98.png)
+
