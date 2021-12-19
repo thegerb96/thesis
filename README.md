@@ -1,5 +1,7 @@
 # MSc. Thesis
-This repo contains well annotated jupyter notebook with all the relevant code used in the creation of my MSc. Thesis as well as the Thesis itself as PDF. For questions as well as any other requests, please be referred to my [LinkedIn](https://www.linkedin.com/in/gerbrandvandijk/).  
+
+This repo contains an annotated jupyter notebook with all the relevant code used in the creation of my MSc. Thesis as well as the Thesis itself as PDF. My thesis marks the first time I tried coding in Python, start to finish is what taught me the basics. As can be seen throughout; none of the formal programming paradigms were used, some code duplication persists and many functions could have been improved for efficiency. Current day, my coding skills are much improved over what is seen here, nonetheless it was a fascinating project to gain my first experience through :). 
+For questions about the content, please be referred to my [LinkedIn](https://www.linkedin.com/in/gerbrandvandijk/).  
 *Please note that directories and keys have been anonimized within the notebooks.*
 
 ## The project consists of 6 chapters:
